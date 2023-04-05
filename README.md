@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently on my way to becoming a Full-Stack Web Developer <br>🌱 I’m currently learning React.js and Next.js <br>
+🔭 I am currently on my way to becoming a Full-Stack Web Developer <br>🌱 I’m currently learning Next.js and Node.js <br>
 
 
 ## 🌐 Socials:
